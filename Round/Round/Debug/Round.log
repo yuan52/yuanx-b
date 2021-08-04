@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\users\yuanx-b\documents\visual studio 2015\projects\round\round\main.cpp(5): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+  Round.vcxproj -> E:\users\yuanx-b\documents\visual studio 2015\Projects\Round\Debug\Round.exe
+  Round.vcxproj -> E:\users\yuanx-b\documents\visual studio 2015\Projects\Round\Debug\Round.pdb (Partial PDB)

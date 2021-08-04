@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\users\yuanx-b\documents\visual studio 2015\projects\quick_sort\quick_sort\main.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+  quick_sort.vcxproj -> E:\users\yuanx-b\documents\visual studio 2015\Projects\quick_sort\Debug\quick_sort.exe
+  quick_sort.vcxproj -> E:\users\yuanx-b\documents\visual studio 2015\Projects\quick_sort\Debug\quick_sort.pdb (Partial PDB)
